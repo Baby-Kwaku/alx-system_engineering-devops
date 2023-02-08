@@ -14,3 +14,4 @@
 14. create link to a file 
 15. copy html files to destination with exceptions
 16. move uppercased files only to destination
+17. deletes files that end with ~
