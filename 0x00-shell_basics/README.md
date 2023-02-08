@@ -5,3 +5,4 @@
 5. Display hidden files in long format
 6. Display content with user and group ID's numerically
 7. Creates a /tmp sub-directory
+8. moves a file to  /tmp sub-directory
