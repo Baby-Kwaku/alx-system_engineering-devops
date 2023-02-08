@@ -15,3 +15,4 @@
 15. copy html files to destination with exceptions
 16. move uppercased files only to destination
 17. deletes files that end with ~
+18. creating tree directories
