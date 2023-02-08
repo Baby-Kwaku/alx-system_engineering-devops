@@ -17,3 +17,4 @@
 17. deletes files that end with ~
 18. creating tree directories
 19. Sort files
+20. create magic file
