@@ -4,6 +4,7 @@
 4. display current directory content in a long forma
 5. Display hidden files in long format
 6. Display content with user and group ID's numerically
-7. Creates a /tmp sub-directory
-8. moves a file to  /tmp sub-directory
-9. deletes a file from /tmp sub-directory
+7. Creates a /tmp/ sub-directory
+8. moves a file to  /tmp/ sub-directory
+9. deletes a file from /tmp/ sub-directory
+10. deletes a sub-directory from /tmp/
