@@ -16,3 +16,4 @@
 16. move uppercased files only to destination
 17. deletes files that end with ~
 18. creating tree directories
+19. Sort files
