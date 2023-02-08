@@ -13,3 +13,4 @@
 13. print a type of file in the /tmp/
 14. create link to a file 
 15. copy html files to destination with exceptions
+16. move uppercased files only to destination
