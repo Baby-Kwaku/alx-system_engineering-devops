@@ -11,3 +11,4 @@
 11. moves back to a previous directory
 12. list all files including those with periods
 13. print a type of file in the /tmp/
+14. create link to a file 
