@@ -9,3 +9,4 @@
 9. deletes a file from /tmp/ sub-directory
 10. deletes a sub-directory from /tmp/
 11. moves back to a previous directory
+12. list content in reverse order
