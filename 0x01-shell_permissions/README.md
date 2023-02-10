@@ -6,4 +6,5 @@
 6. Permit owner to execute
 7. Permit rwx r-x r--
 8. Permit rwx r-x --x
-9. Permit --- --- rwx
+9. Permit exe. to all users
+10. Permit read. exe to all users
