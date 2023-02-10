@@ -11,3 +11,4 @@
 11. Mirror permissions
 12. add exe.permissions to all subdirectories in a current directory
 13. create and add permission to directory
+14. change group owner
