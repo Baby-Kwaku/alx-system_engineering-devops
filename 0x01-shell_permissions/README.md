@@ -8,3 +8,4 @@
 8. Permit rwx r-x --x
 9. Permit exe. to all users
 10. Permit read. exe to all users
+11. Mirror permissions
