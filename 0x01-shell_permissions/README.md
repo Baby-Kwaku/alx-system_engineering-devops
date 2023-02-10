@@ -3,3 +3,4 @@
 3. Print groups user is in
 4. change owner of file
 5. Create an empty file
+6. Permit owner to execute
