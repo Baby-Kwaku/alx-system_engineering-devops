@@ -4,3 +4,4 @@
 4. change owner of file
 5. Create an empty file
 6. Permit owner to execute
+7. Permit rxw rw- r--
