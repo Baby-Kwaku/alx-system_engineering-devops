@@ -9,3 +9,4 @@
 9. Permit exe. to all users
 10. Permit read. exe to all users
 11. Mirror permissions
+12. add exe.permissions to all subdirectories in a current directory
