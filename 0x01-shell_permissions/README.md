@@ -5,4 +5,5 @@
 5. Create an empty file
 6. Permit owner to execute
 7. Permit rwx r-x r--
-8. Permit xwx r-x --x
+8. Permit rwx r-x --x
+9. Permit --- --- rwx
