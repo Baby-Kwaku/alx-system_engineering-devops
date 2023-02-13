@@ -5,3 +5,4 @@
 5. a script that displays the last ten lines of a file
 6. a script that displays the first ten line of a file 
 7. a script that displays the third line of a file 
+8. a script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School
