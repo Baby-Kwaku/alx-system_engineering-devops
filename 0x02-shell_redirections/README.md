@@ -13,3 +13,4 @@
 14. a script that displays the 10 newest files in the current directory.
 15. a script that takes a list of words as input and prints only words that appear exactly once.
 16. a script that displays the patern from a particular file
+17. a script that displays the number of lines that contains a specific pattern
