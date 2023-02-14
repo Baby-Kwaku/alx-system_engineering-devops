@@ -17,3 +17,4 @@
 18. a script that diplays  lines containing the pattern and a specified number of lines after them
 19. a script taht displays all the lines in a specified file that do not contain a particular pattern 
 20. a script that displays all lines of a file starting with a letter
+21. a script that replaces characters
