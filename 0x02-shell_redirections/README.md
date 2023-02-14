@@ -21,3 +21,4 @@
 22  a script that removes characters from input.
 23. a script that displays input in reverse order
 24. a script that displays all users and their home directories, sorted by users.
+25. a script that  finds all empty files and directories in the current directory and all sub-directories.
