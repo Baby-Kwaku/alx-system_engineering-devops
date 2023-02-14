@@ -23,3 +23,4 @@
 24. a script that displays all users and their home directories, sorted by users.
 25. a script that  finds all empty files and directories in the current directory and all sub-directories.
 26. a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+27.  a script that decodes an acoustic poem
