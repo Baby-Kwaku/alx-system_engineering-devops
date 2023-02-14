@@ -19,3 +19,4 @@
 20. a script that displays all lines of a file starting with a letter
 21. a script that replaces characters
 22  a script that removes characters from input.
+23. a script that displays input in reverse order
