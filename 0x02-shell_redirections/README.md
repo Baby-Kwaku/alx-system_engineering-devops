@@ -16,3 +16,4 @@
 17. a script that displays the number of lines that contains a specific pattern
 18. a script that diplays  lines containing the pattern and a specified number of lines after them
 19. a script taht displays all the lines in a specified file that do not contain a particular pattern 
+20. a script that displays all lines of a file starting with a letter
