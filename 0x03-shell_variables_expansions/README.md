@@ -3,3 +3,4 @@ o. a script that creates an alias.
 2. a script that adds directory to the PATH
 3. a script that counts the number of directories in the PATH.
 4. a script that lists environment variables.
+5. a script that lists all local variables and environment variables, and functions.
